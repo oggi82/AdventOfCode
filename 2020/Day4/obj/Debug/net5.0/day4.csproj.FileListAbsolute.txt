@@ -1,0 +1,16 @@
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/bin/Debug/net5.0/day4
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/bin/Debug/net5.0/day4.deps.json
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/bin/Debug/net5.0/day4.runtimeconfig.json
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/bin/Debug/net5.0/day4.runtimeconfig.dev.json
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/bin/Debug/net5.0/day4.dll
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/bin/Debug/net5.0/ref/day4.dll
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/bin/Debug/net5.0/day4.pdb
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/day4.csprojAssemblyReference.cache
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/day4.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/day4.AssemblyInfoInputs.cache
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/day4.AssemblyInfo.cs
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/day4.csproj.CoreCompileInputs.cache
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/day4.dll
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/ref/day4.dll
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/day4.pdb
+/run/media/georg/Data_Hole/Projects/AdventOfCode/Day4/obj/Debug/net5.0/day4.genruntimeconfig.cache
