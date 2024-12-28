@@ -113,17 +113,20 @@ fn main() -> Result<()> {
     //endregion
 
     //region Part 2
-    // println!("\n=== Part 2 ===");
-    //
-    // fn part2<R: BufRead>(reader: R) -> Result<usize> {
-    //     Ok(0)
-    // }
-    //
-    // assert_eq!(0, part2(BufReader::new(TEST.as_bytes()))?);
-    //
-    // let input_file = BufReader::new(File::open(INPUT_FILE)?);
-    // let result = time_snippet!(part2(input_file)?);
-    // println!("Result = {}", result);
+    println!("\n=== Part 2 ===");
+    
+    fn part2<R: BufRead>(mut reader: R) -> Result<u32> {
+        let mut s = String::new();
+        let _ = reader.read_to_string(&mut s);
+        let answer = Puzzle::from(s.as_str()).cross_count();
+        Ok(answer)
+    }
+    
+    assert_eq!(9, part2(BufReader::new(TEST.as_bytes()))?);
+    
+    let input_file = BufReader::new(File::open(INPUT_FILE)?);
+    let result = time_snippet!(part2(input_file)?);
+    println!("Result = {}", result);
     //endregion
 
     Ok(())
